@@ -3,6 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="d3d063b7-fd7f-4b8f-9026-eb3bcd97f33c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-V.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +96,8 @@
       <workItem from="1662640408437" duration="9148000" />
       <workItem from="1662719546217" duration="3700000" />
       <workItem from="1662798628749" duration="13793000" />
-      <workItem from="1662891757200" duration="27622000" />
+      <workItem from="1662891757200" duration="27668000" />
+      <workItem from="1663005685155" duration="3530000" />
     </task>
     <servers />
   </component>

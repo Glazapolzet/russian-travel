@@ -1,5 +1,26 @@
 @import url(../vendor/normalize.css);
 
+@font-face {
+  src: url("../fonts/Inter-Black.otf");
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url("../fonts/Inter-Bold.otf");
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  src: url("../fonts/Inter-Regular.otf");
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+}
+
 .page {
   font-family: 'Inter', Arial, sans-serif;
   margin: 0;
@@ -28,7 +49,7 @@
 }
 
 .header__link-container {
-  margin: 0 0 6px 0;
+  margin: 0 0 4px 0;
   padding: 0;
   display: flex;
   column-gap: 18px;
@@ -44,7 +65,8 @@
 }
 
 .header__lang-link_active {
-  text-decoration: underline;
+  display: inline;
+  border-bottom: 2px solid #FFFFFF;
 }
 
 .content {
