@@ -1,0 +1,5 @@
+.cover {
+  display: flex;
+  margin: 0 calc((100% - 100vw)/2);
+  align-self: center;
+}
