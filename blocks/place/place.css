@@ -11,6 +11,7 @@
     grid-template-columns: fit-content(440px) 1fr;
     grid-template-rows: 1fr fit-content(440px);
     gap: 48px 32px;
+    max-width: 928px;
   }
 }
 
@@ -19,6 +20,7 @@
     grid-template-columns: fit-content(340px) 1fr;
     grid-template-rows: 1fr fit-content(340px);
     gap: 48px 28px;
+    max-width: 720px;
   }
 }
 

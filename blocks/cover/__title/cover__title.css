@@ -6,12 +6,13 @@
   font-size: 72px;
   line-height: 1.06;
   text-align: center;
+  z-index: 1;
 }
 
 @media screen and (max-width: 767px) {
   .cover__title {
     font-size: 32px;
     line-height: 1.09;
-    max-width: 80%;
+    max-width: 250px;
   }
 }

@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 
 @import url("../blocks/page/page.css");
-@import url("../blocks/page-wrapper/page-wrapper.css");
 
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__lang-link/header__lang-link.css");
@@ -40,34 +40,11 @@
 @import url("../blocks/place/__website/place__website.css");
 
 @import url("../blocks/cover/cover.css");
-@import url("../blocks/cover/__image/cover__image.css");
 @import url("../blocks/cover/__link/cover__link.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
-@import url("../blocks/cover/__text-wrapper/cover__text-wrapper.css");
 @import url("../blocks/cover/__title/cover__title.css");
 
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__link-container/footer__link-container.css");
-
-@font-face {
-  src: url("../fonts/Inter-Black.otf");
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 900;
-}
-
-@font-face {
-  src: url("../fonts/Inter-Bold.otf");
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  src: url("../fonts/Inter-Regular.otf");
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-}
