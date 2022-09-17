@@ -1,7 +1,9 @@
 .cover {
-  display: flex;
-  justify-content: center;
   align-self: center;
   width: 100%;
   max-width: 1184px;
+}
+
+.cover:hover .cover__link::before {
+  opacity: 0.8;
 }
