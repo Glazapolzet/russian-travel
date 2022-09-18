@@ -4,6 +4,4 @@
   max-width: 1184px;
 }
 
-.cover:hover .cover__link::before {
-  opacity: 0.8;
-}
+
